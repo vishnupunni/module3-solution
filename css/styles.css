@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     color: #fff;
     background-color: #555422;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Comic Sans MS', cursive , sans-serif;
 }
 
 
@@ -15,7 +15,7 @@ body {
 }
 
 .navbar-brand {
-    padding-right: 10px;
+    padding-right: 1px;
 }
 
 
