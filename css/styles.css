@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #555422;
+    background-color: white;
     font-family: 'Comic Sans MS', cursive , sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
 /* HEADR  */
 
 #header-nav {
-    background-color: darkgray;
+    background-color: gray;
     border-radius: 0;
     border: 0;
 }
@@ -42,9 +42,7 @@ body {
     margin-bottom: 0;
 }
 
-#nav-list {
-    /* margin-top: 10px; */
-}
+
 
 #nav-list a {
     text-align: center;
@@ -53,7 +51,7 @@ body {
 }
 
 #nav-list a:hover {
-    background: #E7E7E7;
+    background: lightblue;
     border: black 2px;
 }
 
@@ -85,12 +83,13 @@ h2 {
     border: 2px solid #3F0C1F;
     overflow: hidden;
     padding: 1em;
+    background-color: gray;
 }
 
 #chicken-tile:hover,
 #beef-tile:hover,
 #sushi-tile:hover {
-    box-shadow: 0 1px 5px 1px #cccccc;
+    box-shadow: 0 1px 5px 1px rgb(106, 185, 255);
 }
 
 #chicken-tile span,
